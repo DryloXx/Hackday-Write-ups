@@ -1,4 +1,4 @@
-# Write-ups
+# Write-up Pokémons Hackday
 
 ![image](https://user-images.githubusercontent.com/96259302/163978275-45e12caa-add1-45b6-a7c8-802514b1a3fa.png)
 
